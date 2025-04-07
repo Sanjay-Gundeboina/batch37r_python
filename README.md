@@ -1,1 +1,3 @@
 # batch37r_python
+10000 CODERS - BATCH37R 
+DAY TO DAY PYTHON
